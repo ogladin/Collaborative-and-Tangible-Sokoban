@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TOIOBordeaux
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: f2c35117d70b940a79065ce661fb0f33, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: connectType
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubeNumber
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: mat
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: cubePrefab
+    value: 
+    objectReference: {fileID: 4525792474193139140, guid: ad7a785e0d826474fb7aef4788587748, type: 3}
+  - target: {fileID: 0}
+    propertyPath: showId
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: colors.Array.size
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: colors.Array.data[0].r
+    value: 0.05844798
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: colors.Array.data[0].g
+    value: 0.6226415
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: colors.Array.data[0].b
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: colors.Array.data[0].a
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: colors.Array.data[1].r
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: colors.Array.data[1].g
+    value: 0.025944764
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: colors.Array.data[1].b
+    value: 0.62352943
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: colors.Array.data[1].a
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: hostBleDeviceNames.Array.size
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: hostBleDeviceNames.Array.data[0]
+    value: toio Core Cube-p6P
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: hostBleDeviceNames.Array.data[1]
+    value: toio Core Cube-76e
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: clientBleDeviceNames.Array.size
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: clientBleDeviceNames.Array.data[0]
+    value: toio Core Cube-n1t
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: clientBleDeviceNames.Array.data[1]
+    value: toio Core Cube-A0E
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: networkFps
+    value: 15
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CubeReadyEvent.m_PersistentCalls.m_Calls.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CubeReadyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CubeReadyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+    value: LevelLoader, Assembly-CSharp
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CubeReadyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+    value: CubeAreReady
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CubeReadyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CubeReadyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CubeReadyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+    value: UnityEngine.Object, UnityEngine
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CubeReadyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CubeReadyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_FloatArgument
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CubeReadyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CubeReadyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_BoolArgument
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CubeReadyEvent.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: CubeReadyMovementReached.m_PersistentCalls.m_Calls.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: initTime
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: minTimeBetweenUndo
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: RemoteplayerPosition.x
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: RemoteplayerPosition.y
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: RemoteplayerPosition.z
+    value: 0
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []

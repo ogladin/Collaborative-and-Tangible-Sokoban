@@ -1,0 +1,7 @@
+# -> Wall
+1 -> Green cube start point
+2 -> Blue cube start point
+$ -> Green crate
+£ -> Blue crate
+. -> Green target
+: -> Blue target
